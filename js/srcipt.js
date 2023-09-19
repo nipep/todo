@@ -143,6 +143,7 @@ function render(task){
         <div class="task__left">
             <button class="btn-reset btn__img btn__done" data-action="done">
                 <div class="svg-done" id="taskSvg">
+                    <img id="done" src="img/circle-svgrepo-com.svg" alt="dobe" width="40px" height="40px">
                 </div>
             </button>
             <h3 class="title__task" id="taskTitle">
